@@ -20,19 +20,15 @@ I didn’t create a full game because I’m not an AAA game studio; in this pet 
 
 - **🎯 Hitman**  
   Assigned as a hitman whose mission is to eliminate a specific player.  
-  The Hitman’s task is direct: _“Eliminate player X. Don’t ask unnecessary questions.”_
 
 - **🏃🏻‍️ Survivor**  
-  The Survivor’s goal is pure survival: _“Survive at any cost.”_  
-  They receive information about who is hunting them, so they can avoid danger.
+  The Survivor’s goal is pure survival: _“Survive at any cost.”_, receive information about who is hunting them.
 
 - **🛡️ Bodyguard**  
-  Protects another player instead of killing.  
   The Bodyguard’s mission is to safeguard their assigned target.
   This role has special rules to avoid dangerous or prohibited targets.
 
 - **💩 Civilian**  
-  The “ordinary” role with no special offensive or defensive abilities.  
   The goal is simply to survive.
 
 - **💀 Juggernaut**  
