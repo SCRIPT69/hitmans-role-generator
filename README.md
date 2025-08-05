@@ -35,6 +35,30 @@ I didn’t create a full game because I’m not an AAA game studio; in this pet 
   The “ordinary” role with no special offensive or defensive abilities.  
   The goal is simply to survive.
 
+- **💀 Juggernaut**  
+  A relentless killer whose mission is to eliminate all other players without mercy.
+
+- **🗡️ Pro Killer**  
+  A skilled assassin who can kill any player of their choice, deciding who lives or dies.
+
+- **🤝 Right Hand**  
+  An assistant role that supports a killer ally, helping to eliminate their target.
+
+- **🧟 Zombie**  
+  A fearsome undead whose goal is to kill and infect other players, growing an army of the undead.
+
+- **🦎 Chameleon**  
+  Can choose between two different roles during the game.
+
+- **🎩 President**  
+  A Survivor variant whose death triggers penalties for others, making survival critical.
+
+- **🐗 Prey**  
+  The hunted player — must survive - anyone who kills the Prey receives a reward.
+
+- **🔮 Seer**  
+  A non-killing role that predicts the fates of other players, gaining strategic insight into other's targets.
+
 ## Technical Highlights
 
 - **Object-Oriented Design:**  
